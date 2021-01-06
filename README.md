@@ -30,7 +30,7 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 ## User Experience
 
 1. Your team must decide on a consistent experience across all pages. Fonts, color scheme, layout, and structure.
-![Hello World Layout](./hello-world-wireframe.png)
+![Hello World Layout](https://github.com/NewForce-at-Mountwest/hello-world/blob/main/hello-world-wireframe.png)
 
 ## Stretch Goal
 1. Using [Sharethrough](https://headlines.sharethrough.com/), analyze your headline with the country name. Make adjustments to the copy to make it more engaging.
